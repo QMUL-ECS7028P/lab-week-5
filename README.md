@@ -1,4 +1,4 @@
-This lab sheet and all other materials can be found on GitHub here: https://github.com/QMUL-ECS735P/lab-week-5/
+This lab sheet and all other materials can be found on GitHub here: https://github.com/QMUL-ECS7028P/lab-week-5/
 
 # OWL, Ontologies, and Protege
 > **Session objectives:**
@@ -20,7 +20,7 @@ The Protege wiki and University of Manchester tutorials would be useful to keep 
   - http://owl.cs.manchester.ac.uk/publications/talks-and- tutorials/protg-owl-tutorial/
   
 ## 2. Examining OWL ontologies with Protege
-You should have a `pizza.owl` file included in the lab materials; open Protege and then open this pizza ontology. You may also open Protege and use "Open from URL..." and paste in this URL: https://www.raw.githubusercontent.com/QMUL-ECS735P/lab-week-5/master/pizza.owl
+You should have a `pizza.owl` file included in the lab materials; open Protege and then open this pizza ontology. You may also open Protege and use "Open from URL..." and paste in this URL: https://www.raw.githubusercontent.com/QMUL-ECS7028P/lab-week-5/master/pizza.owl
 
 Click the `Entities` tab and explore the class hierarchy. You should see something like this on the left pane:
 ![](https://github.com/QMUL-ECS735P/lab-week-5/raw/master/01-class-hierarchy.png)
